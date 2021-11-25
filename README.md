@@ -18,7 +18,7 @@
  
  Bei der Rauschreduktion wird das Signal in Slices verarbeitet. Mit der "Slice Size" Einstellung kann die Größe dieser Slices angepasst werden.
  
-### Plots:
+#### Plots:
  
  Die oberen beiden Plots zeigen das Referenzsignal, die unteren das Nutzsignal. Auf der linken Seite befindet sich jeweils das Original Signal auf der rechten Seite das komprimierte Signal. Mit "Size of plottet window" kann die Größe des dargestellten Teils des Signals angepasst werden.
  
