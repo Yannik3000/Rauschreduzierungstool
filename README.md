@@ -10,11 +10,11 @@
  
  Es Können folgende zwei Parameter für die Rauschreduktion eingestellt werden. Um das Signal erneut mit diesen Einstellungen zu komprimieren, muss der Button "Update Plot" betätigt werden.
  
-##### Sigma Wert:
+ Sigma Wert:
  
  Der Sigma Wert gibt die Stärke der Rauschreduzierung an. Übliche Werte sind im Bereich von 0 bis 8. Kommazahlen müssen mit Punkt geschrieben werden.
  
-##### Slice Size:
+ Slice Size:
  
  Bei der Rauschreduktion wird das Signal in Slices verarbeitet. Mit der "Slice Size" Einstellung kann die Größe dieser Slices angepasst werden.
  
